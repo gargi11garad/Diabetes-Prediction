@@ -13,4 +13,14 @@ It uses the **Pima Indians Diabetes dataset** and demonstrates all the basic ste
 - Save the trained model for later use (`.pkl` file)
 - Beginner-friendly Jupyter Notebook with explanations
 
+🛠️ Tech Stack
 
+Python 3.8+
+
+pandas, numpy
+
+scikit-learn
+
+matplotlib, seaborn
+
+joblib
